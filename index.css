@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+#content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 750px;
+    margin: 0 auto;
+}
+
+h1 {
+    padding: 10px;
+}
+
+h4 {
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+button {
+    margin-top: 20px;
+}
+
+img {
+    padding: 10px;
+}
+#reset {
+    position: fixed;
+    bottom: 20px;
+    right: 15px;
+}
