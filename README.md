@@ -1,12 +1,14 @@
-# About the Project
+# "What's for dinner tonight?"
 
-## Project Title
+## Introduction
 
-"What's for dinner tonight?" 
+"What's for dinner tonight?" is a meal starter game that is meant to help players gauge and move towards a course of action based on where their energy is. It is made using Javascript, with minimal CSS and HTML. 
+
+[Play "What's for Dinner Tonight?"](https://cmslee.github.io/recipegame/)
 
 ## Motivation
 
-This game is designed for people who have anxiety about what to do about dinner as it approaches. The person for whom everything about cooking is stressful. The person who wants to throw something at the screen when cooking videos start with "this is such an easy recipe!" and then Step 1 is "chop a million vegetables into tiny pieces." 
+This game is designed for people who have anxiety about what to do about dinner as it approaches. The person who wants to throw something at the screen when cooking videos start with "this is such an easy recipe!" and then Step 1 is "chop a million vegetables into tiny pieces." 
 
 Using a "choose your own adventure" format, it instead accompanies the player at the startline of the dinner prep process, checks in with how they are feeling, and maps a course of action along a decision-making chain that matches dinner-prep options to their capacity in the moment.
 
@@ -16,9 +18,11 @@ The idea is to help people feed themselves without judgment of how they are feel
 
 This is a very barebones testing of code, structure, and game-flow. Following the tutorial cited below, displayed story elements are contained within scene objects at the top of the code, while functions dictating page and story navigation are situated below. Comments note areas of improvement and intentions for future development.
 
-For this test run, I have selected the dinner option "Kitsune Udon," a Japanese noodle soup staple whose difficulty and labor-intensity is flexible and customizable. There are four routes to completing this dinner option, all of which can be considered "win" states. There is no "lose" state, per se, though there is a reset button as well as options to temporarily -- or permanently -- exit in earlier stages of the process. One of the pending features is a waiting room for later stages.
+For this test run, I have selected the dinner option "Kitsune Udon," a Japanese noodle soup staple whose difficulty and labor-intensity is flexible and customizable. There are four routes to completing this dinner option, all of which can be considered "win" states. There is no "lose" state, per se, though there is a reset button as well as options to temporarily -- or permanently -- exit in earlier stages of the process. 
 
-[What's for Dinner Tonight?](https://cmslee.github.io/recipegame/)
+An incomplete element to the game is the inclusion of measurements as well as more images and visually pleasing styling as this draft of the project was more focused on content writing.
+
+One of the pending features is a "waiting room" option for later stages.
 
 ## Built With
 
@@ -31,10 +35,10 @@ For this test run, I have selected the dinner option "Kitsune Udon," a Japanese 
 
 # Author 
 
-C.Lee
+C. Lee
 
 # Acknowledgments
 
-[Tutorial |](https://youtu.be/kayFBMl06q8)
-[Restart Button Discussion |](https://teamtreehouse.com/community/any-one-know-how-to-make-a-restart-button)
+[Tutorial](https://youtu.be/kayFBMl06q8) |
+[Restart Button Discussion](https://teamtreehouse.com/community/any-one-know-how-to-make-a-restart-button) |
 [Kitsune Udon Recipe](https://www.justonecookbook.com/kitsune-udon/)

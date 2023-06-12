@@ -3,7 +3,7 @@ function getStory(name) {
     return {
         currentScene: "checkIn",
         checkIn: {
-            title: "Dinnertime",
+            title: "Dinnertime...",
             story: `You have made it. It is time to eat! Are you ready, ${name}?`,
             choices: [
                 {
