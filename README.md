@@ -12,7 +12,7 @@ This game is designed for people who have anxiety about what to do about dinner 
 
 Using a "choose your own adventure" format, it instead accompanies the player at the startline of the dinner prep process, checks in with how they are feeling, and maps a course of action along a decision-making chain that matches dinner-prep options to their capacity in the moment.
 
-The idea is to help people feed themselves without judgment of how they are feeling or how many times they have to lie down for a second before getting up and trying again.
+The idea is to help people feed themselves without judgment around how they are feeling or how many times they have to lie down for a second before getting up and trying again.
 
 ## Build Status
 
@@ -20,7 +20,7 @@ This is a very barebones testing of code, structure, and game-flow. Following th
 
 For this test run, I have selected the dinner option "Kitsune Udon," a Japanese noodle soup staple whose difficulty and labor-intensity is flexible and customizable. There are four routes to completing this dinner option, all of which can be considered "win" states. There is no "lose" state, per se, though there is a reset button as well as options to temporarily -- or permanently -- exit in earlier stages of the process. 
 
-An incomplete element to the game is the inclusion of measurements as well as more images and visually pleasing styling as this draft of the project was more focused on content writing.
+An incomplete element to the game is the exclusion of measurements. The intention was also to include a few more images to help break up the text and guide players along each stage.
 
 One of the pending features is a "waiting room" option for later stages.
 
